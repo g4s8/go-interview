@@ -13,3 +13,7 @@ To run and test this app use:
  2. start with `./go-interview`
  3. test by sending HTTP request to `http://localhost/any?src=val` (use any parameter to log instead of `val`)
  4. check `/tmp/out.txt` for log messages.
+
+## Solving
+
+This project contains many mistakes. Try to find all bugs, improve code quality, and make some optimizations. Submit the results as a pull-request.
